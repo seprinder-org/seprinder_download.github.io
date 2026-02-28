@@ -45,7 +45,7 @@ Các tài liệu hướng dẫn bổ sung.
 ---
 
 ### Quick links
-* [Seprinder_Bridge](https://github.com/seprinder-org/Seprinder_Bridge)
+<!-- * [Seprinder_Bridge](https://github.com/seprinder-org/Seprinder_Bridge) -->
 * [Seprinder_Cura](https://github.com/seprinder-org/Seprinder_Cura)
 * [Seprinder_Huong_Dan_Dang_San_Pham](https://github.com/seprinder-org/Seprinder_huong_dan_dang_san_pham)
 * [Seprinder_Huong_Dan_Them_May_In](https://github.com/seprinder-org/seprinder_huong_dan_them_may_in)

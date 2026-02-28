@@ -2,10 +2,10 @@
 
 ---
 
-## Seprinder_Bridge
+<!-- ## Seprinder_Bridge
 Kết nối máy in 3D với website để nhận G-code, giám sát và vận hành từ xa.  
 
-[![Open Seprinder_Bridge](https://img.shields.io/badge/Open-Seprinder_Bridge-2b6cb0?style=for-the-badge)](https://github.com/seprinder-org/Seprinder_Bridge)
+[![Open Seprinder_Bridge](https://img.shields.io/badge/Open-Seprinder_Bridge-2b6cb0?style=for-the-badge)](https://github.com/seprinder-org/Seprinder_Bridge) -->
 
 ---
 

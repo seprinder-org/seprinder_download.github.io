@@ -1,32 +1,32 @@
 Đây là thư mục cho phần mềm kết nối máy in 3D với [Seprinder.com](https://Seprinder.com)
 
----
+<!-- --- -->
 
 <!-- ## Seprinder_Bridge
 Kết nối máy in 3D với website để nhận G-code, giám sát và vận hành từ xa.  
 
 [![Open Seprinder_Bridge](https://img.shields.io/badge/Open-Seprinder_Bridge-2b6cb0?style=for-the-badge)](https://github.com/seprinder-org/Seprinder_Bridge) -->
 
----
+<!-- --- -->
 
-## Seprinder_Cura
+<!-- ## Seprinder_Cura
 Hướng dẫn xuất profile từ Cura và nạp lên Seprinder để slice.  
 
-[![Open Seprinder_Cura](https://img.shields.io/badge/Open-Seprinder_Cura-38a169?style=for-the-badge)](https://github.com/seprinder-org/Seprinder_Cura)
+[![Open Seprinder_Cura](https://img.shields.io/badge/Open-Seprinder_Cura-38a169?style=for-the-badge)](https://github.com/seprinder-org/Seprinder_Cura) -->
 
----
+<!-- --- -->
 
-## Seprinder_Huong_Dan_Dang_San_Pham
+<!-- ## Seprinder_Huong_Dan_Dang_San_Pham
 Hướng dẫn đăng sản phẩm lên Seprinder.  
 
-[![Open Seprinder_Huong_Dan_Dang_San_Pham](https://img.shields.io/badge/Open-Seprinder__Huong__Dan__Dang__San__Pham-d97706?style=for-the-badge)](https://github.com/seprinder-org/Seprinder_huong_dan_dang_san_pham)
+[![Open Seprinder_Huong_Dan_Dang_San_Pham](https://img.shields.io/badge/Open-Seprinder__Huong__Dan__Dang__San__Pham-d97706?style=for-the-badge)](https://github.com/seprinder-org/Seprinder_huong_dan_dang_san_pham) -->
 
----
+<!-- --- -->
 
-## Seprinder_Huong_Dan_Them_May_In
+<!-- ## Seprinder_Huong_Dan_Them_May_In
 Hướng dẫn thêm máy in vào hệ thống Seprinder để kết nối và vận hành.  
 
-[![Open Seprinder_Huong_Dan_Them_May_In](https://img.shields.io/badge/Open-Seprinder__Huong__Dan__Them__May__In-0ea5e9?style=for-the-badge)](https://github.com/seprinder-org/seprinder_huong_dan_them_may_in)
+[![Open Seprinder_Huong_Dan_Them_May_In](https://img.shields.io/badge/Open-Seprinder__Huong__Dan__Them__May__In-0ea5e9?style=for-the-badge)](https://github.com/seprinder-org/seprinder_huong_dan_them_may_in) -->
 
 ---
 
@@ -37,10 +37,15 @@ Hướng dẫn cài đặt Klipper và KIAUH cho máy in 3D chạy Klipper.
 
 ---
 
-## Seprinder_May_in_ho_tro
+<!-- ## Seprinder_May_in_ho_tro
 Các tài liệu hướng dẫn bổ sung.
 
-[![Open Seprinder_May_in_ho_tro](https://img.shields.io/badge/Open-Seprinder__May__in__ho__tro-f59e0b?style=for-the-badge)](https://github.com/seprinder-org/Seprinder_May_in_ho_tro)
+[![Open Seprinder_May_in_ho_tro](https://img.shields.io/badge/Open-Seprinder__May__in__ho__tro-f59e0b?style=for-the-badge)](https://github.com/seprinder-org/Seprinder_May_in_ho_tro) -->
+
+## Seprinder_AI_Failure_Detection_In_3D
+Hướng dẫn sử dụng AI để phát hiện lỗi trong quá trình in 3D.
+
+[![Open Seprinder_AI_Failure_Detection_In_3D](https://img.shields.io/badge/Open-Seprinder_AI_Failure_Detection_In_3D-f59e0b?style=for-the-badge)](https://github.com/seprinder-org/failure-ai-detection-in-3d-printing)
 
 ---
 

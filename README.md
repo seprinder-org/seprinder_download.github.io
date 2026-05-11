@@ -1,4 +1,4 @@
-Đây là thư mục cho phần mềm kết nối máy in 3D với [Seprinder.com](https://Seprinder.com)
+Đây là thư mục cho chia sẻ các tài liệu hướng dẫn về phần mềm của [Seprinder.com](https://Seprinder.com)
 
 <!-- --- -->
 
@@ -51,8 +51,9 @@ Hướng dẫn sử dụng AI để phát hiện lỗi trong quá trình in 3D.
 
 ### Quick links
 <!-- * [Seprinder_Bridge](https://github.com/seprinder-org/Seprinder_Bridge) -->
-* [Seprinder_Cura](https://github.com/seprinder-org/Seprinder_Cura)
+<!-- * [Seprinder_Cura](https://github.com/seprinder-org/Seprinder_Cura)
 * [Seprinder_Huong_Dan_Dang_San_Pham](https://github.com/seprinder-org/Seprinder_huong_dan_dang_san_pham)
-* [Seprinder_Huong_Dan_Them_May_In](https://github.com/seprinder-org/seprinder_huong_dan_them_may_in)
+* [Seprinder_Huong_Dan_Them_May_In](https://github.com/seprinder-org/seprinder_huong_dan_them_may_in) -->
 * [Seprinder_Cai_Dat_Klipper](https://github.com/seprinder-org/seprinder_cai_dat_klipper)
-* [Seprinder_May_in_ho_tro](https://github.com/seprinder-org/Seprinder_May_in_ho_tro)
+* [Seprinder_AI_Failure_Detection_In_3D](https://github.com/seprinder-org/failure-ai-detection-in-3d-printing)
+<!-- * [Seprinder_May_in_ho_tro](https://github.com/seprinder-org/Seprinder_May_in_ho_tro) -->

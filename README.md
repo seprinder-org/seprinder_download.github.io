@@ -51,7 +51,6 @@ Hướng dẫn sử dụng AI để phát hiện lỗi trong quá trình in 3D.
 
 ## SeSpark
 Web-based 3D Slicer & Printer Controller — cắt lớp mô hình 3D và điều khiển máy in ngay trên trình duyệt.
-Core engine viết bằng Rust (WASM), giao diện Svelte 5 + Three.js.
 
 [![Open SeSpark](https://img.shields.io/badge/Open-SeSpark-6366f1?style=for-the-badge&logo=github)](https://github.com/seprinder-org/SeSpark)
 

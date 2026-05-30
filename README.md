@@ -49,11 +49,20 @@ Hướng dẫn sử dụng AI để phát hiện lỗi trong quá trình in 3D.
 
 ---
 
+## SeSpark
+Web-based 3D Slicer & Printer Controller — cắt lớp mô hình 3D và điều khiển máy in ngay trên trình duyệt.
+Core engine viết bằng Rust (WASM), giao diện Svelte 5 + Three.js.
+
+[![Open SeSpark](https://img.shields.io/badge/Open-SeSpark-6366f1?style=for-the-badge&logo=github)](https://github.com/seprinder-org/SeSpark)
+
+---
+
 ### Quick links
 <!-- * [Seprinder_Bridge](https://github.com/seprinder-org/Seprinder_Bridge) -->
 <!-- * [Seprinder_Cura](https://github.com/seprinder-org/Seprinder_Cura)
 * [Seprinder_Huong_Dan_Dang_San_Pham](https://github.com/seprinder-org/Seprinder_huong_dan_dang_san_pham)
 * [Seprinder_Huong_Dan_Them_May_In](https://github.com/seprinder-org/seprinder_huong_dan_them_may_in) -->
+* [SeSpark](https://github.com/seprinder-org/SeSpark)
 * [Seprinder_Cai_Dat_Klipper](https://github.com/seprinder-org/seprinder_cai_dat_klipper)
 * [Seprinder_AI_Failure_Detection_In_3D](https://github.com/seprinder-org/failure-ai-detection-in-3d-printing)
 <!-- * [Seprinder_May_in_ho_tro](https://github.com/seprinder-org/Seprinder_May_in_ho_tro) -->

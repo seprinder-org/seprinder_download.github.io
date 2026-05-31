@@ -1,4 +1,4 @@
-Đây là thư mục cho chia sẻ các tài liệu hướng dẫn về phần mềm của [Seprinder.com](https://Seprinder.com)
+Đây là nơi lưu trữ và chia sẻ các tài liệu nghiên cứu của [Seprinder](https://seprinder.com/)
 
 <!-- --- -->
 

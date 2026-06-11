@@ -56,6 +56,13 @@ Web-based 3D Slicer & Printer Controller — cắt lớp mô hình 3D và điề
 
 ---
 
+## SPDKlipper Plugin
+Plugin tích hợp SPDKlipper vào Klipper, cho phép điều khiển máy in 3D thông qua nền tảng Seprinder.
+
+[![Open SPDKlipper Plugin](https://img.shields.io/badge/Open-SPDKlipper_Plugin-10b981?style=for-the-badge&logo=github)](https://github.com/seprinder-org/spdklipper-plugin)
+
+---
+
 ### Quick links
 <!-- * [Seprinder_Bridge](https://github.com/seprinder-org/Seprinder_Bridge) -->
 <!-- * [Seprinder_Cura](https://github.com/seprinder-org/Seprinder_Cura)
@@ -64,4 +71,5 @@ Web-based 3D Slicer & Printer Controller — cắt lớp mô hình 3D và điề
 * [SeSpark](https://github.com/seprinder-org/SeSpark)
 * [Seprinder_Cai_Dat_Klipper](https://github.com/seprinder-org/seprinder_cai_dat_klipper)
 * [Seprinder_AI_Failure_Detection_In_3D](https://github.com/seprinder-org/failure-ai-detection-in-3d-printing)
+* [SPDKlipper Plugin](https://github.com/seprinder-org/spdklipper-plugin)
 <!-- * [Seprinder_May_in_ho_tro](https://github.com/seprinder-org/Seprinder_May_in_ho_tro) -->

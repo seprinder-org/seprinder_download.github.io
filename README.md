@@ -63,6 +63,13 @@ Plugin tích hợp SPDKlipper vào Klipper, cho phép điều khiển máy in 3D
 
 ---
 
+## Hướng dẫn cài đặt và điều khiển máy in Klipper từ xa
+Hướng dẫn cài đặt và điều khiển máy in Klipper từ xa.
+
+[![Open Hướng dẫn cài đặt và điều khiển máy in Klipper từ xa](https://img.shields.io/badge/Open-cai_dat_va_dieu_khien_tu_xa-3b82f6?style=for-the-badge&logo=github)](https://github.com/seprinder-org/cai_dat_va_dieu_khien_tu_xa)
+
+---
+
 ### Quick links
 <!-- * [Seprinder_Bridge](https://github.com/seprinder-org/Seprinder_Bridge) -->
 <!-- * [Seprinder_Cura](https://github.com/seprinder-org/Seprinder_Cura)
@@ -72,4 +79,5 @@ Plugin tích hợp SPDKlipper vào Klipper, cho phép điều khiển máy in 3D
 * [Seprinder_Cai_Dat_Klipper](https://github.com/seprinder-org/seprinder_cai_dat_klipper)
 * [Seprinder_AI_Failure_Detection_In_3D](https://github.com/seprinder-org/failure-ai-detection-in-3d-printing)
 * [SPDKlipper Plugin](https://github.com/seprinder-org/spdklipper-plugin)
+* [Hướng dẫn cài đặt và điều khiển máy in Klipper từ xa](https://github.com/seprinder-org/cai_dat_va_dieu_khien_tu_xa)
 <!-- * [Seprinder_May_in_ho_tro](https://github.com/seprinder-org/Seprinder_May_in_ho_tro) -->
